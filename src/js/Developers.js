@@ -105,42 +105,6 @@ function Developers() {
               </a>
             </div>
           </div>
-          {/* <div className="card reveal" data-aos="zoom-in">
-            <img
-              src="/developers_imgs/Mohamed_Ehab.jpeg"
-              alt="Mohamed Ehab"
-              draggable="false"
-            />
-            <h3>{t("name_mohamed_ehab")}</h3>
-            <p>{t("job_mohamed_ehab")}</p>
-            <div className="social-icons">
-              <a href="https://wa.me/201113689195" className="whatsapp" target="_blank">
-                <i className="fa-brands fa-whatsapp"></i>
-              </a>
-              <a
-                href="https://github.com/Mohamed-Ehab-Teama"
-                className="github" target="_blank"
-                style={{ backgroundColor: "#000" }}
-              >
-                <i className="fa-brands fa-github"></i>
-              </a>
-              <a
-                href="https://www.facebook.com/share/16kGePcq6X/"
-                className="facebook" target="_blank"
-              >
-                <i className="fa-brands fa-facebook-f"></i>
-              </a>
-              <a
-                href="https://www.linkedin.com/in/mohamed-ehab-teama-267154250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
-                className="linkedin" target="_blank"
-              >
-                <i className="fa-brands fa-linkedin-in"></i>
-              </a>
-              <a href="mailto:mohamed111.me111@gmail.com" className="email" target="_blank">
-                <i className="fa fa-envelope"></i>
-              </a>
-            </div>
-          </div> */}
           <div className="card reveal" data-aos="flip-down">
             <img
               src="/developers_imgs/Fahd_Abuolila.jpeg"
